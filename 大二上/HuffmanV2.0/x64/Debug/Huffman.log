@@ -1,0 +1,8 @@
+﻿  final.cpp
+D:\Something for learning\大二上\数据结构课设\DS Design\HuffmanV2.0\final.cpp(258,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Something for learning\大二上\数据结构课设\DS Design\HuffmanV2.0\final.cpp(312,6): warning C4101: “depth”: 未引用的局部变量
+D:\Something for learning\大二上\数据结构课设\DS Design\HuffmanV2.0\final.cpp(411,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Something for learning\大二上\数据结构课设\DS Design\HuffmanV2.0\final.cpp(425,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  test2.cpp
+  正在生成代码...
+  Huffman.vcxproj -> D:\Something for learning\大二上\数据结构课设\DS Design\HuffmanV2.0\x64\Debug\Huffman.exe
